@@ -20,5 +20,5 @@ This is the solution of the first mision of HTML and CSS about a 404 Not Found  
 ## Overview
 Users should be able to:
 
-* Change the size of the site for desktop and mobile and see how it works properly in each size.
+* Change the size of the site for desktop and mobile and see how it works properly in each size
 
